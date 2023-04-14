@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">🌏 I live in Saitama, Japan.</h3> 
 <h3 align="left">🎓 Department of International Politics.</h3> 
 <h3 align="left">🍎 Development iOS apps.</h3>
--------------
-  
+
+_______________________________________________ 
 <h3 align="left">My Github Stats.</h3> 
   
 <a href="http://www.github.com/reeen21"><img src="https://github-readme-stats.vercel.app/api?username=reeen21&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=64748b&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="reeen21's GitHub stats" /></a>
