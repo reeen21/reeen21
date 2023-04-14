@@ -6,7 +6,7 @@ _____________________________________
   
 <h3 align="left">My Github Stats.</h3> 
   
-![reeen-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeen-git&show_icons=true&theme=dark)
+![reeen-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeen21&show_icons=true&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=reeen21&theme=onedark)](https://github.com/reeen21/github-profile-trophy)
   
 <h3 align="left">Languages and Tools:</h3>
