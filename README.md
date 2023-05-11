@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 <h3 align="left">Department of International Politics.</h3> 
 <h3 align="left">Development iOS applications.</h3>
-<h3 align="left">I'll work at Yumemi.(2024~)</h3>
+<h3 align="left">My main forcus is SwiftUI.</h3>
 
 _______________________________________________ 
 <h3 align="left">My Github Stats.</h3> 
