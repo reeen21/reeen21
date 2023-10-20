@@ -2,7 +2,7 @@ Hi!👋 My name is Ren Takahashi.
 =====================================================================================================================================
 <h3 align="left">Department of International Politics.</h3> 
 <h3 align="left">Development iOS applications.</h3>
-<h3 align="left">My main focus is <s>SwiftUI</s> UIKit and Architectures.</h3>
+<h3 align="left">My main focus is SwiftUI <s>UIKit</s> and Architectures.</h3>
 
 _______________________________________________ 
 <h3 align="left">My Github Status.</h3> 
