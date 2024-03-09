@@ -1,7 +1,7 @@
 # Hi!👋 My name is Ren Takahashi.
 - Department of International Politics
 - Development iOS applications.
-- My main focus is SwiftUI <s>UIKit</s> and Architectures.
+- My main focus is SwiftUI <s>UIKit</s>.
 
 ## My Github Status.</h3> 
   
