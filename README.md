@@ -3,10 +3,7 @@
 - Development iOS applications.
 - My main focus is SwiftUI <s>UIKit</s>.
 
-## My Github Status.
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reeen21&theme=midnight-purple)
-  
+## My Github Status.  
 [![GitHub Streak](https://streak-stats.demolab.com?user=reeen21&theme=shadow-purple&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=reeen21&theme=radical)](https://github-profile-trophy.vercel.app/?username=reeen21&theme=radical)
