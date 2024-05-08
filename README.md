@@ -6,7 +6,7 @@
 ## My Github Status.  
 [![GitHub Streak](https://streak-stats.demolab.com?user=reeen21&theme=ambient-gradient&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
-![graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reeen21&theme=tokyonight)
+![graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reeen21&theme=shades_of_purple)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=reeen21&theme=radical)](https://github-profile-trophy.vercel.app/?username=reeen21&theme=radical)
 
