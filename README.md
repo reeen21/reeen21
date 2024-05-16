@@ -1,7 +1,7 @@
 # Hi!👋 My name is Ren Takahashi.
-- Department of International Politics
-- Development iOS applications.
-- My main focus is SwiftUI <s>UIKit</s>.
+- iOS Engineer at Yumemi, inc
+- B.A. in Political Science
+- A’ ‘ohe pu’u ki’ eki’e ke ho’a’o　’ia pi’i
 
 ## My Github Status.  
 [![GitHub Streak](https://streak-stats.demolab.com?user=reeen21&theme=ambient-gradient&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
