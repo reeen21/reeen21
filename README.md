@@ -1,4 +1,4 @@
-# Hi!👋 My name is Ren Takahashi.
+# Hi!👋 I'm Reeen.
 - iOS Engineer at Yumemi, inc
 - B.A. in Political Science
 - A’ ‘ohe pu’u ki’ eki’e ke ho’a’o　’ia pi’i
