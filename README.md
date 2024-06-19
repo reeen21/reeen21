@@ -1,7 +1,7 @@
 # Hi!👋 I'm Reeen.
 - iOS Engineer at Yumemi, inc
 - B.A. in Political Science
-- A’ ‘ohe pu’u ki’ eki’e ke ho’a’o　’ia pi’i
+- A’ ‘ohe pu’u ki’ eki’e ke ho’a’o ’ia pi’i
 
 ## My Github Status.  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reeen21&theme=shades_of_purple)
