@@ -12,4 +12,20 @@
 
 <a href="https://www.buymeacoffee.com/reeen21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-![](https://raw.githubusercontent.com/reeen21/reeen21/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://alicloud-pic.oss-cn-shanghai.aliyuncs.com/MultiSourceSnake/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://alicloud-pic.oss-cn-shanghai.aliyuncs.com/MultiSourceSnake/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Grid Snake Animation"
+      src="https://alicloud-pic.oss-cn-shanghai.aliyuncs.com/MultiSourceSnake/github-snake.svg"
+    />
+  </picture>
+</p>
+
