@@ -35,11 +35,13 @@ let myProfile = Profile(
 )
 
 func introduce(profile: Profile) {
-    print("Name: \(profile.name)")
-    print("Position: \(profile.position)")
-    print("Education: \(profile.education)")
-    print("Specialties: \(profile.specialties.joined(separator: ", "))")
-    print("Hobbies: \(profile.hobbies.joined(separator: ", "))")
+    while true {
+        print("Name: \(profile.name)")
+        print("Position: \(profile.position)")
+        print("Education: \(profile.education)")
+        print("Specialties: \(profile.specialties.joined(separator: ", "))")
+        print("Hobbies: \(profile.hobbies.joined(separator: ", "))")
+    }
 }
 
 introduce(profile: myProfile)
