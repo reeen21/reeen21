@@ -1,7 +1,48 @@
-# Hi!👋 I'm Reeen.
-- iOS Engineer at Yumemi, inc
-- B.A. in Political Science
-- A’ ‘ohe pu’u ki’ eki’e ke ho’a’o ’ia pi’i
+## My Profile
+
+Hello! Here's a snapshot of who I am:
+```swift
+struct Profile {
+    let name: String
+    let position: String
+    let education: String
+    let specialties: [String]
+    let hobbies: [String]
+}
+
+let myProfile = Profile(
+    name: "Reeen",
+    position: "iOS Engineer at Yumemi Inc.",
+    education: "Majored in International Politics",
+    specialties: [
+        "Swift",
+        "UIKit",
+        "SwiftUI",
+        "MapKit",
+        "Firebase",
+        "Swift Package Manager",
+        "MVVM Architecture",
+        "Flux Architecture",
+        "... and more!"
+    ],
+    hobbies: [
+        "Playing darts",
+        "Skiing",
+        "Watching movies (especially the 007 series)",
+        "Brewing coffee"
+    ]
+)
+
+func introduce(profile: Profile) {
+    print("Name: \(profile.name)")
+    print("Position: \(profile.position)")
+    print("Education: \(profile.education)")
+    print("Specialties: \(profile.specialties.joined(separator: ", "))")
+    print("Hobbies: \(profile.hobbies.joined(separator: ", "))")
+}
+
+introduce(profile: myProfile)
+```
 
 ## My Github Status.  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reeen21&theme=jolly)
