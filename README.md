@@ -2,7 +2,7 @@
 
 Hello! Here's a snapshot of who I am:
 ```swift
-struct Profile {
+struct Profile: Introducible {
     let name: String
     let position: String
     let education: String
