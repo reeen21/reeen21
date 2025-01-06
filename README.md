@@ -26,6 +26,7 @@ let myProfile = Profile(
         "... and more!"
     ],
     hobbies: [
+        "Traveling",
         "Playing darts",
         "Skiing",
         "Watching movies (especially the 007 series)",
