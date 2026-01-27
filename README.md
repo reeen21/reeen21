@@ -12,25 +12,24 @@ struct Profile: Introducible {
 
 let myProfile = Profile(
     name: "Reeen",
-    position: "iOS Engineer at Yumemi Inc.",
+    position: "iOS Engineer at Accenture Song.",
     education: "Majored in International Politics",
     specialties: [
         "Swift",
-        "UIKit",
         "SwiftUI",
+        "Swift Concurrency",
         "MapKit",
         "Firebase",
         "Swift Package Manager",
-        "MVVM Architecture",
-        "Flux Architecture",
+        "Flux/Redux Architecture",
         "... and more!"
     ],
     hobbies: [
         "Traveling",
-        "Playing darts",
         "Skiing",
         "Watching movies (especially the 007 series)",
-        "Brewing coffee"
+        "Brewing coffee",
+        "Drink Whiskey"
     ]
 )
 
