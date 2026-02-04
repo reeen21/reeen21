@@ -45,3 +45,6 @@ func introduce(profile: Profile) {
 
 introduce(profile: myProfile)
 ```
+
+![](https://raw.githubusercontent.com/reeen21/reeen21/output/github-contribution-grid-snake.svg)
+
