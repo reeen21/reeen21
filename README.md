@@ -31,23 +31,6 @@ $ git reset --hard && claude "make it work. but good this time."
   ⏵⏵ auto mode on · 214 edits approved while you were making coffee ☕
 ```
 
-## 🧠 About me
-
-```swift
-//  Reeen.swift
-//  Created by Claude on 2026/10/02.
-//  Reviewed by Reeen: never.
-
-struct Reeen: Engineer {
-    let name        = "Ren Takahashi"
-    let role        = "Senior EnterKey Engineer"  // laid off by Auto mode
-    let skills      = claude.skills
-    let knowledge   = claude.knowledge
-    let confidence  = claude.confidence        // "You're absolutely right!"
-    let personality = claude.personality       // TODO
-}
-```
-
 ```text
 $ swift build
 error: type 'Reeen' does not conform to protocol 'Engineer'
