@@ -31,13 +31,6 @@ $ git reset --hard && claude "make it work. but good this time."
   ⏵⏵ auto mode on · 214 edits approved while you were making coffee ☕
 ```
 
-```text
-$ swift build
-error: type 'Reeen' does not conform to protocol 'Engineer'
-note:  protocol requires 'func code()' without network access
-warning: 'Reeen' is just 'Claude' with extra steps
-```
-
 ## 📊 Stats
 
 ```text
