@@ -1,50 +1,110 @@
-## My Profile
+<div align="center">
 
-Hello! Here's a snapshot of who I am:
-```swift
-struct Profile: Introducible {
-    let name: String
-    let position: String
-    let education: String
-    let specialties: [String]
-    let hobbies: [String]
-}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=D97757&center=true&vCenter=true&width=700&lines=Hi%2C%20I%27m%20Reeen%20%F0%9F%91%8B;Senior%20Enter-Key%20Engineer%20%E2%8F%8E;...was.%20Auto%20mode%20took%20my%20job.%20%F0%9F%A4%96;Now%20I%20just%20watch%20Claude%20work.%20%F0%9F%91%80;%22lgtm%22%20%E2%80%94%20me%2C%20every%205%20min" alt="typing" />
 
-let myProfile = Profile(
-    name: "Reeen",
-    position: "iOS Engineer at Accenture Song.",
-    education: "Majored in International Politics",
-    specialties: [
-        "Swift",
-        "SwiftUI",
-        "Swift Concurrency",
-        "MapKit",
-        "Firebase",
-        "Swift Package Manager",
-        "Flux/Redux Architecture",
-        "... and more!"
-    ],
-    hobbies: [
-        "Traveling",
-        "Skiing",
-        "Watching movies (especially the 007 series)",
-        "Brewing coffee",
-        "Drink Whiskey"
-    ]
-)
+<sub>iOS / Flutter vibe coder · JP 🇯🇵 · Pair programming with Claude and Codex since forever</sub>
 
-func introduce(profile: Profile) {
-    while true {
-        print("Name: \(profile.name)")
-        print("Position: \(profile.position)")
-        print("Education: \(profile.education)")
-        print("Specialties: \(profile.specialties.joined(separator: ", "))")
-        print("Hobbies: \(profile.hobbies.joined(separator: ", "))")
-    }
-}
+</div>
 
-introduce(profile: myProfile)
+## 🌀 How I code
+
+```text
+$ claude "make it work"
+
+✻ Thinking…
+✻ Reading 47 files…
+✻ Editing ContentView.swift…
+
+● Done! I've implemented the feature, refactored the architecture,
+  added tests, and fixed 3 bugs you didn't know about.
+
+$ claude "that broke everything"
+
+● You're absolutely right! Let me fix that.
+
+$ claude "now it's worse"
+
+● You're absolutely right!
+
+$ git reset --hard && claude "make it work. but good this time."
+
+  ⏵⏵ auto mode on · 214 edits approved while you were making coffee ☕
 ```
 
-![](https://raw.githubusercontent.com/reeen21/reeen21/output/github-contribution-grid-snake-dark.svg)
+## 🧠 About me
 
+```swift
+//  Reeen.swift
+//  Created by Claude on 2026/10/02.
+//  Reviewed by Reeen: never.
+
+struct Reeen: Engineer {
+    let name        = "Ren Takahashi"
+    let role        = "Senior EnterKey Engineer"  // laid off by Auto mode
+    let skills      = claude.skills
+    let knowledge   = claude.knowledge
+    let confidence  = claude.confidence        // "You're absolutely right!"
+    let personality = claude.personality       // TODO
+}
+```
+
+```text
+$ swift build
+error: type 'Reeen' does not conform to protocol 'Engineer'
+note:  protocol requires 'func code()' without network access
+warning: 'Reeen' is just 'Claude' with extra steps
+```
+
+## 📊 Stats
+
+```text
+Most Used Languages
+──────────────────────────────────────────────
+██████████████████░░░░░░░  70.0%  lgtm
+████░░░░░░░░░░░░░░░░░░░░░  14.2%  fix it
+██░░░░░░░░░░░░░░░░░░░░░░░   8.5%  look into it
+█░░░░░░░░░░░░░░░░░░░░░░░░   4.3%  hmm, not quite
+█░░░░░░░░░░░░░░░░░░░░░░░░   2.4%  ultrathink
+▏░░░░░░░░░░░░░░░░░░░░░░░░   0.4%  Swift
+▏░░░░░░░░░░░░░░░░░░░░░░░░   0.2%  Dart
+```
+
+```text
+This Week (WakaTime-ish)
+──────────────────────────────────────────────────────
+Watching Claude think    31 hrs 12 mins  ██████████████
+Waiting on rate limits   12 hrs 40 mins  ██████
+Brewing coffee            6 hrs 03 mins  ███
+Reading diffs             0 hrs 00 mins
+Writing Swift             0 hrs 04 mins  ▏ (it was a typo fix)
+```
+
+## 🗓️ A day in the life
+
+```mermaid
+flowchart LR
+    A[☕ Coffee] --> B[💭 Have a vibe]
+    B --> C[🤖 look into it]
+    C --> D{Works?}
+    D -- yes --> E[👍 lgtm]
+    D -- no --> F[😤 fix it]
+    F --> C
+    C -- rate limited --> R[⛔ 5h cooldown]
+    R --> S[🌱 Touch grass]
+    S --> C
+    E --> G[🥃 Whiskey]
+    G --> H[🎬 Watch 007]
+    H --> A
+```
+
+---
+
+<div align="center">
+
+### 🐍 Even this snake was prompted.
+
+![snake](https://raw.githubusercontent.com/reeen21/reeen21/output/github-contribution-grid-snake-dark.svg)
+
+<sub>Built with ✨ vibes ✨ and an unreasonable number of tokens.</sub>
+
+</div>
