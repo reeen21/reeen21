@@ -79,31 +79,9 @@ Reading diffs             0 hrs 00 mins
 Writing Swift             0 hrs 04 mins  ▏ (it was a typo fix)
 ```
 
-## 🗓️ A day in the life
-
-```mermaid
-flowchart LR
-    A[☕ Coffee] --> B[💭 Have a vibe]
-    B --> C[🤖 look into it]
-    C --> D{Works?}
-    D -- yes --> E[👍 lgtm]
-    D -- no --> F[😤 fix it]
-    F --> C
-    C -- rate limited --> R[⛔ 5h cooldown]
-    R --> S[🌱 Touch grass]
-    S --> C
-    E --> G[🥃 Whiskey]
-    G --> H[🎬 Watch 007]
-    H --> A
-```
-
 ---
 
 <div align="center">
-
-### 🐍 Even this snake was prompted.
-
-![snake](https://raw.githubusercontent.com/reeen21/reeen21/output/github-contribution-grid-snake-dark.svg)
 
 <sub>Built with ✨ vibes ✨ and an unreasonable number of tokens.</sub>
 
