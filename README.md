@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=D97757&center=true&vCenter=true&width=700&lines=Hi%2C%20I%27m%20Reeen%20%F0%9F%91%8B;Senior%20Enter-Key%20Engineer%20%E2%8F%8E;...was.%20Auto%20mode%20took%20my%20job.%20%F0%9F%A4%96;Now%20I%20just%20watch%20Claude%20work.%20%F0%9F%91%80;%22lgtm%22%20%E2%80%94%20me%2C%20every%205%20min" alt="typing" />
 
-<sub>iOS / Flutter vibe coder · JP 🇯🇵 · Pair programming with Claude and Codex since forever</sub>
+<sub>iOS / Flutter engineer (allegedly) · Claude writes it, Codex reviews it, I take the credit.</sub>
 
 </div>
 
@@ -81,8 +81,4 @@ Writing Swift             0 hrs 04 mins  ▏ (it was a typo fix)
 
 ---
 
-<div align="center">
-
-<sub>Built with ✨ vibes ✨ and an unreasonable number of tokens.</sub>
-
-</div>
+<sub>🤖 Generated with Claude Code</sub>
